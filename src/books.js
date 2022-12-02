@@ -17,4 +17,10 @@ export const books = [
     author: 'Don Freeman',
     img: 'https://images-na.ssl-images-amazon.com/images/I/81v6X23UlML._AC_UL160_SR160,160_.jpg',
   },
+  {
+    id: '4',
+    title: 'Corduroy',
+    author: 'Don Freeman',
+    img: 'https://images-na.ssl-images-amazon.com/images/I/81v6X23UlML._AC_UL160_SR160,160_.jpg',
+  },
 ];
