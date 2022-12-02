@@ -1,8 +1,7 @@
 export default function App() {
   return (
-    <>
-      <h3>Hello world</h3>
-      <button>click me !</button>
-    </>
+    <div className="container">
+      <h2>advanced react</h2>
+    </div>
   );
 }

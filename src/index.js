@@ -3,7 +3,8 @@ import { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import React from 'react';
 import './index.css';
-import BookList from './Booklist';
+// import BookList from './Booklist';
+import App from './App';
 
 // const Greeting = () => {
 //   return React.createElement(
@@ -16,7 +17,7 @@ import BookList from './Booklist';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <StrictMode>
-    <BookList />
+    <App />
   </StrictMode>
 );
 
