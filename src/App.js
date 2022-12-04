@@ -1,7 +1,8 @@
+import Setup from './tutorial/1-useState/setup/3-useState-array';
 export default function App() {
   return (
     <div className="container">
-      <h2>advanced react</h2>
+      <Setup />
     </div>
   );
 }
