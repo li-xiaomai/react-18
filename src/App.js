@@ -1,4 +1,4 @@
-import Setup from './tutorial/1-useState/setup/5-usState-counter';
+import Setup from './tutorial/2-useEffect/setup/1-useEffect-basics';
 export default function App() {
   return (
     <div className="container">
